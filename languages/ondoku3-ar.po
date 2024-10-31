@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: text-to-speech Ondoku\n"
+"POT-Creation-Date: 2021-03-07 17:59+0900\n"
+"PO-Revision-Date: 2021-03-07 18:00+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ondokusan.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/hooks.php:73
+msgid "API error"
+msgstr "خطأ API"
+
+#: classes/setting.php:16 classes/setting.php:51
+msgid "Ondoku settings"
+msgstr "إعدادات Ondoku"
+
+#. Author of the plugin/theme
+#: classes/setting.php:16
+msgid "Ondoku"
+msgstr "Ondoku"
+
+#: classes/setting.php:37
+msgid "Saved the setting"
+msgstr "تم حفظ الإعداد"
+
+#: classes/setting.php:57
+msgid "Access token"
+msgstr "رمز وصول"
+
+#: classes/setting.php:61
+msgid "Please enter the access token for the Ondoku API request."
+msgstr "الرجاء إدخال رمز الوصول لطلب Ondoku API."
+
+#: classes/setting.php:62
+msgid ""
+"You can get the access token from settings page after you logged in Ondoku."
+msgstr ""
+"يمكنك الحصول على وصول رمزية من صفحة الإعدادات بعد قمت بتسجيل في Ondoku."
+
+#: classes/setting.php:63
+msgid "Open Settings"
+msgstr "إعدادات أفتح الإعدادات"
+
+#: classes/setting.php:68
+msgid "Language"
+msgstr "لغة"
+
+#: classes/setting.php:82
+msgid "Voices"
+msgstr "أصوات"
+
+#: classes/setting.php:103
+msgid "Speed"
+msgstr "سرعة"
+
+#: classes/setting.php:109
+msgid "Pitch"
+msgstr "يقذف"
+
+#: classes/setting.php:115
+msgid "Save"
+msgstr "حفظ"
+
+#. Plugin Name of the plugin/theme
+msgid "Ondoku Text To Speech"
+msgstr "‫Ondoku النص إلى كلام"
+
+#. Description of the plugin/theme
+msgid ""
+"Create an audio file that automatically reads the text aloud when posting a "
+"blog, and insert it with an HTML tag at the beginning of the blog."
+msgstr ""
+"أنشئ ملفًا صوتيًا يقرأ النص تلقائيًا بصوت عالٍ عند نشر مدونة ، وأدخله بعلامة "
+"HTML في بداية المدونة."
+
+#~ msgid "text-to-speech Ondoku"
+#~ msgstr "Ondoku تحويل النص إلى كلام"

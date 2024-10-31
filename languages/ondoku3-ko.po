@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: text-to-speech Ondoku\n"
+"POT-Creation-Date: 2021-03-07 18:07+0900\n"
+"PO-Revision-Date: 2021-03-07 18:08+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ondokusan.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/hooks.php:73
+msgid "API error"
+msgstr "API 오류"
+
+#: classes/setting.php:16 classes/setting.php:51
+msgid "Ondoku settings"
+msgstr "Ondoku 설정"
+
+#. Author of the plugin/theme
+#: classes/setting.php:16
+msgid "Ondoku"
+msgstr "Ondoku"
+
+#: classes/setting.php:37
+msgid "Saved the setting"
+msgstr "설정을 저장했습니다"
+
+#: classes/setting.php:57
+msgid "Access token"
+msgstr "액세스 토큰"
+
+#: classes/setting.php:61
+msgid "Please enter the access token for the Ondoku API request."
+msgstr "Ondoku API 요청에 대한 액세스 토큰을 입력하십시오."
+
+#: classes/setting.php:62
+msgid ""
+"You can get the access token from settings page after you logged in Ondoku."
+msgstr ""
+"당신은 당신이 Ondoku 로그인 후 설정 페이지에서 액세스 토큰을 얻을 수 있습니"
+"다."
+
+#: classes/setting.php:63
+msgid "Open Settings"
+msgstr "설정 열기"
+
+#: classes/setting.php:68
+msgid "Language"
+msgstr "언어"
+
+#: classes/setting.php:82
+msgid "Voices"
+msgstr "목소리"
+
+#: classes/setting.php:103
+msgid "Speed"
+msgstr "속도"
+
+#: classes/setting.php:109
+msgid "Pitch"
+msgstr "피치"
+
+#: classes/setting.php:115
+msgid "Save"
+msgstr "저장"
+
+#. Plugin Name of the plugin/theme
+msgid "Ondoku Text To Speech"
+msgstr "Ondoku 텍스트를 음성"
+
+#. Description of the plugin/theme
+msgid ""
+"Create an audio file that automatically reads the text aloud when posting a "
+"blog, and insert it with an HTML tag at the beginning of the blog."
+msgstr ""
+"블로그를 게시 할 때 텍스트를 자동으로 읽어주는 오디오 파일을 만들고 블로그 "
+"시작 부분에 HTML 태그를 삽입합니다."
+
+#~ msgid "text-to-speech Ondoku"
+#~ msgstr "텍스트 음성 변환 Ondoku"
